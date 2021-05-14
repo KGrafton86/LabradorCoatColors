@@ -11,8 +11,8 @@ Note that the percentages do not indicate the makeup of a litter. The numbers ar
 ## Genotype to Phenotype Logic folder
 To determine what phenotype a genotype is, the prototype just looks through a list. I worked out the decision logic in Python, and created a test file to test every possible combination of these 3 genes.
 
-To run lab_coat_colors.py, genotype should be entered like this: BbEeDd
-To run test_all_genotypes.py, comment out the line in lab_coat_colors.py that runs the main function
+To run lab_coat_colors.py, genotype should be entered like this: BbEeDd</br>
+To run test_all_genotypes.py, comment out the line in lab_coat_colors.py that runs the main function</br>
 To run labrador_test_or_main, comment out the lines in both lab_coat_colors.py and test_all_genotypes.py that run the main functions
 
 ## Web Application
