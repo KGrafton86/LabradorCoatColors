@@ -66,4 +66,4 @@ def genotype_to_phenotype():
 	exit()
 		
 # run main code
-# genotype_to_phenotype()
+genotype_to_phenotype()
