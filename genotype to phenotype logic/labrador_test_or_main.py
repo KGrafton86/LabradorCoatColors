@@ -3,7 +3,7 @@
 # to run this, need to comment out the lines in test_all_genotypes and lab_coat_colors that call the main function
 
 from test_all_genotypes import test_all_genotypes
-from lab_coat_colors import genotype_to_phenotype
+from genotype_to_phenotype import genotype_to_phenotype
 
 def test_or_main():
 	print("Run test or main? ")
