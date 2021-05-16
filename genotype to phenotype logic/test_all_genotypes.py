@@ -2,7 +2,7 @@
 # to test script using each of the possible genotypes
 # to run this need to comment out the line in lab_coat_colors that runs the main function
 
-from lab_coat_colors import split_genes, puppy_color
+from genotype_to_phenotype import split_genes, puppy_color
 from sys import exc_info
 
 # [genotype, phenotype]
