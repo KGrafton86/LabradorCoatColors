@@ -30,9 +30,9 @@ def puppy_color(b_gene, e_gene, d_gene):
 			color = "yellow"
 		else: 
 			print("wtf is this how did you get here? error GtP2")
-		if b_gene == "bb":	# 'dudley' is an incorrectly-used slang term, 'liver pigment' is correct
-			# standard_color += " (liver pigment)" 
-			color += " (liver pigment)"
+		# if b_gene == "bb":	# 'dudley' is an incorrectly-used slang term, 'liver pigment' is correct
+			# # standard_color += " (liver pigment)" 
+			# color += " (liver pigment)"
 	elif b_gene == "bb":
 		standard_color = "chocolate"
 		if dilute == True:
