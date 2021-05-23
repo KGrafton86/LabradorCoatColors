@@ -15,5 +15,8 @@ To run genotype_to_phenotype.py, genotype should be entered like this: BbEeDd</b
 To run test_all_genotypes.py, comment out the line in genotype_to_phenotype.py that runs the main function</br>
 To run labrador_test_or_main, comment out the lines in both genotype_to_phenotype.py and test_all_genotypes.py that run the main functions
 
+## Python Prototype with Logic folder
+Includes all the files to run the decision logic in Python. Currently set up to run the test of all possible mating pairs using test_all_mating_pairs.py and output 2 files with the results of each test. To run for an individual mating pair, uncomment the line `main()` in labrador_coat_colors.py.
+
 ## Web Application
 My next step is to build the whole thing as a web application, which will be [on my dog training website](http://trainingsuperdogs.com/labrador-coat-colors-tool.html) when it's finished.The UI will also get an update from the prototype.
